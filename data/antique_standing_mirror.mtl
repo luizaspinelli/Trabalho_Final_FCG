@@ -1,0 +1,18 @@
+# Blender MTL File: 'antique_standing_mirror.blend'
+# Material Count: 1
+
+newmtl antique_standing_mirror_Mat
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump E:\\Storage\\Storage Files\\Portfolio Models\\Antique Standing Mirror\\Submitted\\antique_standing_mirror_JPG_4096\\antique_standing_mirror_Mat_Normal(OpenGL).jpg
+map_Kd E:\\Storage\\Storage Files\\Portfolio Models\\Antique Standing Mirror\\Submitted\\antique_standing_mirror_JPG_4096\\antique_standing_mirror_Mat_BaseColor.jpg
+map_Ks E:\\Storage\\Storage Files\\Portfolio Models\\Antique Standing Mirror\\Submitted\\antique_standing_mirror_JPG_4096\\antique_standing_mirror_Mat_SpecularLvl.jpg
+map_Ns E:\\Storage\\Storage Files\\Portfolio Models\\Antique Standing Mirror\\Submitted\\antique_standing_mirror_JPG_4096\\antique_standing_mirror_Mat_Roughness.jpg
+map_d E:\\Storage\\Storage Files\\Portfolio Models\\Antique Standing Mirror\\Submitted\\antique_standing_mirror_JPG_4096\\antique_standing_mirror_Mat_Opacity.jpg
+refl E:\\Storage\\Storage Files\\Portfolio Models\\Antique Standing Mirror\\Submitted\\antique_standing_mirror_JPG_4096\\antique_standing_mirror_Mat_Metallic.jpg
